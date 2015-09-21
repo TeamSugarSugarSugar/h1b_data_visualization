@@ -20,7 +20,8 @@ id int not null auto_increment primary key,
 name varchar(100) not null,
 city varchar(50),
 state char(2) not null,
-naics_code varchar(6)
+naics_code varchar(6),
+unique(name,city,state,naics_code)
 );
 
 create table soc (
