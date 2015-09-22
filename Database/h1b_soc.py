@@ -18,7 +18,7 @@ with open('Data_2014.csv', newline='', encoding = "ISO-8859-1") as file:
     reader = csv.DictReader(file, delimiter=',')
     h1b_list = []
     # for this part, year is 2010
-    year = 2010
+    # year = 2010
     for row in reader:
         h1b_list.append(row)
 
