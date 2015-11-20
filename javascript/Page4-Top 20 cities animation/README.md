@@ -4,3 +4,4 @@ This is the fourth page of the project, which mainly includes:
 
 2. a responsible visualization of top 10 industries of each of the top 20 H1b application cities based on NAICS code
 
+For live demo: <a href="http://wangleibeckham.github.io/ResponsibleBarChartPiechartDemo/">Click Here</a>
