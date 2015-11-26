@@ -12,6 +12,10 @@ sugar sugar sugar !!! gotz是男神 -OCD Go Tarheels!
   <tr><td>Nov 20, 2015</td>
     <td>Page4 (Top 20 H1b application cities page) online</td>
     <td><a href="http://wangleibeckham.github.io/ResponsibleBarChartPiechartDemo/">Click Here</a> for a live demo.</td>
-    
+  </tr>
+   </tr>
+<tr><td>Nov 26, 2015</td>
+    <td>Framework updated</td>
+    <td><a href="http://Teamsugarsugarsugar.github.io/Deliverable/Theme/city.html">Click Here</a> for a live demo.</td>
   </tr>
 </table>
