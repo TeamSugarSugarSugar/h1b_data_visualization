@@ -22,4 +22,9 @@ sugar sugar sugar !!! gotz是男神 -OCD Go Tarheels!
     <td>Industry page updated</td>
     <td><a href="http://Teamsugarsugarsugar.github.io/Deliverable/Theme/industry.html">Click Here</a> for a live demo.</td>
   </tr>
+<tr><td>Nov 30, 2015</td>
+    <td>States page updated</td>
+    <td><a href="http://Teamsugarsugarsugar.github.io/Deliverable/Theme/states.html">Click Here</a> for a live demo.</td>
+  </tr>
+
 </table>
